@@ -129,7 +129,7 @@ if (state==="end") {
   push()
   fill("grey")
   textSize(75);
-  text("GameOver",200,300);
+  text("GameOver",200,350);
   pop();
 }
 
