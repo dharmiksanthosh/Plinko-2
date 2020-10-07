@@ -78,7 +78,7 @@ function draw() {
           score = score+500;
           particle = null;
 
-          if (turn>=2){
+          if (turn>=5){
 
             state = "end";
           }
@@ -88,7 +88,7 @@ function draw() {
           score = score+100;
           particle = null;
 
-          if (turn>=2){
+          if (turn>=5){
 
             state = "end";
           }
@@ -98,7 +98,7 @@ function draw() {
           score = score+200;
           particle = null;
 
-          if (turn>=2){
+          if (turn>=5){
 
             state = "end";
           }
